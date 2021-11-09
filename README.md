@@ -17,3 +17,23 @@ You work as a data scientist at a multinational corporation.
 
 The HR team collected extensive data on their employees and approached you to develop a model that could predict which employees are more likely to quit. 
 
+Steps 
+Import Libraries and Data Set 
+Basic Data Checks 
+Info ()
+Describe()
+
+Replace the 'Attrition' and 'overtime' column with integers
+Check  any missing data
+Create the histogram to check data 
+
+
+
+
+![image](https://user-images.githubusercontent.com/92477493/140933968-4fe8a2b7-a616-4a29-969a-c65f4fc04b38.png)
+
+
+![image](https://user-images.githubusercontent.com/92477493/140934064-06582cc7-6c34-4999-a63b-f3d9b8bc93e8.png)
+
+
+![image](https://user-images.githubusercontent.com/92477493/140934125-03516097-5ffa-4391-8d43-ab0772748ba3.png)
