@@ -72,34 +72,3 @@ Boxplot -Gender vs. Monthly Income
 
 Boxplot –Monthly income Job Role
 ![image](https://user-images.githubusercontent.com/92477493/140934864-ab07d2d5-d6de-4dab-849b-415a3e20ff0b.png)
-
-
-Data Cleaning
-![image](https://user-images.githubusercontent.com/92477493/140935030-6e480d09-a267-4c59-88d9-0d58ca23a1a1.png)
-
-
-Create Model 
-
-Logistic Regression 
-confusion_matrix, classification_report
-
-Appx Accuracy – 90 % 
-![image](https://user-images.githubusercontent.com/92477493/140935076-53890d85-3e83-4a05-9253-35000e27e146.png)
-
-
-Create Model 
-
-Random Forest Classifier 
-
-confusion_matrix, classification_report
-
-Appx Accuracy – 90 % 
-
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/92477493/140935151-0f4d18c8-1ed1-4fb2-8631-860cfff0c564.png)
-
-
