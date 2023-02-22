@@ -78,3 +78,4 @@ Boxplot –Monthly income Job Role
 ![image](https://user-images.githubusercontent.com/92477493/140946027-1343ba00-6a2e-40d8-8b67-0b5c38db5503.png)
 
 
+![image](https://user-images.githubusercontent.com/92477493/220523357-0b9c9a94-c516-44a6-a7ca-a8cfd80b7fac.png)
